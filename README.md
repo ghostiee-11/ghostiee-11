@@ -152,16 +152,12 @@ Sharpe Ratio 3.5+, 300%+ returns on BTC, 105%+ on ETH. 10+ statistical indicator
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ghostiee-11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6dd4&icon_color=1a6dd4&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ghostiee-11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6dd4&icon_color=1a6dd4&text_color=c9d1d9&include_all_commits=true&count_private=true&hide_rank=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=ghostiee-11&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1a6dd4&fire=ff6f00&currStreakLabel=1a6dd4" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostiee-11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6dd4&text_color=c9d1d9&langs_count=8&exclude_repo=lumen,panel,holoviews,param,OpenCRE,scikit-bio,airflow,zulip,StyleSphere&hide=c%2B%2B" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghostiee-11&theme=darkhub&no-frame=true&no-bg=true&column=7" width="100%" />
 </p>
 
 <p align="center">
