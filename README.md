@@ -149,7 +149,7 @@ Sharpe Ratio 3.5+, 300%+ returns on BTC, 105%+ on ETH. 10+ statistical indicator
 
 ---
 
-## GitHub Stats
+## Languages & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostiee-11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6dd4&text_color=c9d1d9&langs_count=8&exclude_repo=lumen,panel,holoviews,param,OpenCRE,scikit-bio,airflow,zulip,StyleSphere&hide=c%2B%2B" width="400" />
