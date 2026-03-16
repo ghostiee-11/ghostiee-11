@@ -22,7 +22,7 @@
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ghostiee-11/lumen-xarray">lumen-xarray</a>
-<p><b>xarray + SQL + Lumen — Scientific Data Dashboards</b></p>
+<p><b>xarray + SQL + Lumen - Scientific Data Dashboards</b></p>
 
 <a href="https://github.com/ghostiee-11/lumen-xarray">
   <img src="https://github.com/ghostiee-11/lumen-xarray/raw/main/assets/all_tabs.gif" width="100%" />
@@ -93,7 +93,7 @@ AI-powered speech and language processing tool for multilingual communication an
 ### <a href="https://github.com/ghostiee-11/holoviz-viz-mcp">holoviz-viz-mcp</a>
 <p><b>MCP Server for HoloViz Visualizations</b></p>
 
-36 tools, 8 MCP Apps, Panel embed support, crossfiltering, and streaming — interactive visualizations via AI assistants.
+36 tools, 8 MCP Apps, Panel embed support, crossfiltering, and streaming - interactive visualizations via AI assistants.
 
 </td>
 <td width="50%" valign="top">
