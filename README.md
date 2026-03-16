@@ -146,7 +146,7 @@ Sharpe Ratio 3.5+, 300%+ returns on BTC, 105%+ on ETH. 10+ statistical indicator
   <img src="https://img.shields.io/badge/Hackathons-5x%20Winner-blueviolet?style=for-the-badge&logo=devpost&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Poker%20Bot-3rd%20Place-silver?style=for-the-badge&logo=spoj&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeScript%203.0-3rd%20Place-silver?style=for-the-badge&logo=codepen&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-Competitor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></p>
+  <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></p>
 
 ---
 
