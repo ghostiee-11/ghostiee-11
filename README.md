@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-28a745?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-Builder-ff6f00?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=ghostiee-11&style=for-the-badge&color=1a6dd4&label=Profile+Views" />
 </p>
 
