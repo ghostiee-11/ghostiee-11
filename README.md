@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6dd4&height=200&section=header&text=Aman%20Kumar&fontSize=50&fontAlignY=35&desc=AI-ML%20Researcher%20%7C%20SDE%20%7C%20Developer&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <b>I build tools that make complex data explorable.</b>
+  <b>I build AI/ML systems, GenAI pipelines, and data-driven tools that solve real problems.</b>
 </p>
 
 <p align="center">
