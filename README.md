@@ -2,6 +2,8 @@
 
 <p align="center">
   <b>I build AI/ML systems, GenAI pipelines, and data-driven tools that solve real problems.</b>
+  <br>
+  <sub>Currently building AI pipelines at Anthiva AI | BTech student at Delhi Technological University</sub>
 </p>
 
 <p align="center">
@@ -82,7 +84,7 @@ BLIP captions + OCR + ViLT reranking with Pinecone vector search. 97% response r
 ### <a href="https://github.com/ghostiee-11/Vaaniverse">Vaaniverse</a>
 <p><b>Speech & Language AI</b></p>
 
-AI-powered speech and language processing tool for multilingual communication and accessibility.
+Voice-first, multimodal AI platform with 3 specialized agents (Travel, Welfare, Mentorship). Multilingual, works on low-end phones without internet via calls, SMS, and WhatsApp.
 
 </td>
 </tr>
@@ -113,9 +115,13 @@ Sharpe Ratio 3.5+, 300%+ returns on BTC, 105%+ on ETH. 10+ statistical indicator
 
 | Project | Description |
 |---------|-------------|
-| [BhashaSetu](https://github.com/ghostiee-11/BhashaSetu) | Language translation and communication bridge |
-| [gatekeeper-ai](https://github.com/ghostiee-11/gatekeeper-ai) | AI-powered access control and security |
-| [AI-accessibility-extension](https://github.com/ghostiee-11/AI-acessibility-extension) | Browser extension for AI-powered accessibility |
+| [Multi-Agent Document Processing](https://github.com/ghostiee-11/Multi-agent-AI-system-for-document-processing-) | Multi-agent system (Groq + Llama3) that classifies PDFs, JSON, emails and routes to specialized agents |
+| [gatekeeper-ai](https://github.com/ghostiee-11/gatekeeper-ai) | Prompt engineering challenge - 5 levels of increasingly difficult AI gatekeepers |
+| [Hand Gesture Drone](https://github.com/ghostiee-11/Hand-gesture-drone) | Real-time hand gesture recognition using MediaPipe + OpenCV for drone control |
+| [Voice Drone Simulation](https://github.com/ghostiee-11/voice-recognition-drone-simulation-) | Live voice-controlled drone simulation using speech recognition |
+| [AI-accessibility-extension](https://github.com/ghostiee-11/AI-acessibility-extension) | Chrome extension for AI-powered web accessibility |
+| [BhashaSetu](https://github.com/ghostiee-11/BhashaSetu) | Expo-based multilingual translation app |
+| [CasaSwift](https://github.com/ghostiee-11/CasaSwift) | React Native app for booking household services |
 
 </details>
 
