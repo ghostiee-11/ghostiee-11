@@ -2,8 +2,6 @@
 
 <p align="center">
   <b>I build AI/ML systems, GenAI pipelines, and data-driven tools that solve real problems.</b>
-  <br>
-  <sub>Currently building AI pipelines at Anthiva AI | BTech student at Delhi Technological University</sub>
 </p>
 
 <p align="center">
