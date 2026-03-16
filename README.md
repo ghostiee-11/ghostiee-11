@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6dd4&height=200&section=header&text=Aman%20Kumar&fontSize=50&fontAlignY=35&desc=BTech%20Student%20%7C%20Open%20Source%20Contributor%20%7C%20Builder&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6dd4&height=200&section=header&text=Aman%20Kumar&fontSize=50&fontAlignY=35&desc=AI-ML%20Researcher%20%7C%20SDE%20%7C%20Developer&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <b>I build tools that make complex data explorable.</b>
@@ -69,7 +69,7 @@ HR-VITON with CBAM attention, CLIP embeddings + Pinecone search, LLaMA3 "StyleRA
 <tr>
 <td width="50%" valign="top">
 
-### RAG Visual Shopping
+### <a href="https://github.com/ghostiee-11/Multimodal-RAG-System-for-Visual-Shopping-Assistance-">RAG Visual Shopping</a>
 <p><b>Multimodal RAG for E-commerce</b></p>
 
 BLIP captions + OCR + ViLT reranking with Pinecone vector search. 97% response relevance, 30% fewer hallucinations, 22% better retrieval precision on 500+ product queries.
@@ -154,7 +154,7 @@ Sharpe Ratio 3.5+, 300%+ returns on BTC, 105%+ on ETH. 10+ statistical indicator
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=ghostiee-11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6dd4&icon_color=1a6dd4&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/ghostiee-11">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostiee-11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6dd4&text_color=c9d1d9&langs_count=8" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostiee-11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6dd4&text_color=c9d1d9&langs_count=8&exclude_repo=lumen,panel,holoviews,param,OpenCRE,scikit-bio,airflow,zulip,StyleSphere" />
   </a>
 </p>
 
@@ -197,7 +197,7 @@ Sharpe Ratio 3.5+, 300%+ returns on BTC, 105%+ on ETH. 10+ statistical indicator
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amankumar0611">
+  <a href="https://www.linkedin.com/in/aman-kumar-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aman0611kumar@gmail.com">
