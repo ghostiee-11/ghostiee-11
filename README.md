@@ -152,41 +152,17 @@ Sharpe Ratio 3.5+, 300%+ returns on BTC, 105%+ on ETH. 10+ statistical indicator
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ghostiee-11">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ghostiee-11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6dd4&icon_color=1a6dd4&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/ghostiee-11">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostiee-11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6dd4&text_color=c9d1d9&langs_count=8&exclude_repo=lumen,panel,holoviews,param,OpenCRE,scikit-bio,airflow,zulip,StyleSphere&hide=c%2B%2B" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ghostiee-11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6dd4&icon_color=1a6dd4&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ghostiee-11&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1a6dd4&fire=ff6f00&currStreakLabel=1a6dd4" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ghostiee-11&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1a6dd4&fire=ff6f00&currStreakLabel=1a6dd4" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostiee-11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6dd4&text_color=c9d1d9&langs_count=8&exclude_repo=lumen,panel,holoviews,param,OpenCRE,scikit-bio,airflow,zulip,StyleSphere&hide=c%2B%2B" width="400" />
 </p>
-
----
-
-## Activity
-
-<p align="center">
-  <a href="https://github.com/ghostiee-11">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostiee-11&theme=github-compact&hide_border=true&bg_color=0d1117&color=1a6dd4&line=1a6dd4&point=ff6f00" width="100%" />
-  </a>
-</p>
-
----
-
-## Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ghostiee-11&theme=darkhub&no-frame=true&no-bg=true&column=7" width="100%" />
 </p>
-
----
-
-## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghostiee-11/ghostiee-11/output/github-contribution-grid-snake-dark.svg" width="100%" />
