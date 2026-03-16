@@ -122,7 +122,7 @@ Sharpe Ratio 3.5+, 300%+ returns on BTC, 105%+ on ETH. 10+ statistical indicator
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,flask,fastapi,docker,git,github,linux,vscode,pytorch,tensorflow,postgresql&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,react,nextjs,flask,fastapi,nodejs,pytorch,tensorflow,sklearn,opencv,mysql,postgres,docker,git,github,bash,anaconda,linux,vscode&perline=13&theme=dark" />
 </p>
 
 ---
