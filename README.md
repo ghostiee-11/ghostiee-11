@@ -19,6 +19,17 @@
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### <a href="https://github.com/ghostiee-11/MatCLIP">MatCLIP</a>
+<p><b>Multimodal Contrastive Learning for Materials Science</b></p>
+
+CLIP and ImageBind adapted across crystal structures (CGCNN graph encoder), XRD diffraction patterns (1D ResNet), and natural-language descriptions (MatSciBERT) via InfoNCE loss in PyTorch + PyTorch Geometric. **94.0% Recall@1** on text-to-crystal retrieval, **90.5% Recall@1** on crystal-to-text, and **MRR 0.966** on 9,751 Materials Project compounds. Cross-modal retrieval and zero-shot classification for materials discovery.
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/ghostiee-11/lumen-xarray">lumen-xarray</a>
@@ -63,7 +74,7 @@ HR-VITON with CBAM attention, CLIP embeddings + Pinecone search, LLaMA3 "StyleRA
 ### <a href="https://github.com/ghostiee-11/fingenius">FinGenius</a>
 <p><b>AI-Powered Finance Platform</b></p>
 
-9 core modules: AI Finance Assistant (RAG + GPT), Stock Alerts, Loan Recommender, Goal Planner, Mutual Fund Advisor, Market Insights, Scam Checker, and Finnyland (gamified learning for kids).
+11 integrated modules spanning education, compliance, advisory, and automation. WealthWise (RAG on SEBI/BSE/Income Tax), Loan Recommender (LLM-ranked across 250+ Indian schemes), multi-agent Goal-Based Planner, FinEdu (Deep Knowledge Tracing), Mutual Fund Advisor, Scam Checker (Naive Bayes), Stock Alerts (Twilio WhatsApp), and Finnyland (gamified kids finance). Built on Flask, LangChain, LangGraph, Transformers.
 
 </td>
 </tr>
@@ -155,7 +166,7 @@ Sharpe Ratio 3.5+, 300%+ returns on BTC, 105%+ on ETH. 10+ statistical indicator
   <img src="https://img.shields.io/badge/NeurIPS'25-Bronze%20Medal-CD7F32?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/IndiaAI%20Hackathon-National%20Finalist-1a73e8?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/CTF%20BITS%20Pilani-1st%20Place-gold?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathons-5x%20Winner-blueviolet?style=for-the-badge&logo=devpost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathons-7x%20Winner-blueviolet?style=for-the-badge&logo=devpost&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Poker%20Bot-3rd%20Place-silver?style=for-the-badge&logo=spoj&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeScript%203.0-3rd%20Place-silver?style=for-the-badge&logo=codepen&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></p>
